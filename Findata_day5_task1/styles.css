@@ -1,0 +1,19 @@
+.tabs {
+    display: flex;
+  }
+  
+  .tabButton {
+    background-color: #f4f4f4;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .tabButton:hover {
+    background-color: #ddd;
+  }
+  
+  .tabContent {
+    margin-top: 20px;
+  }
+  
